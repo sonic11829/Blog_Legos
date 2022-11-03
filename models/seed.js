@@ -8,7 +8,7 @@ const starterLegos = [
     name: 'pickle', set: 'pickle', comment: 'pickle'
   }
 ]
-// things
+
 Lego.deleteMany({})
     .then(() => {
       Lego.create(starterLegos)

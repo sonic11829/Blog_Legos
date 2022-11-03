@@ -26,5 +26,5 @@ class Default extends React.Component {
         )
     }
 }
-// things
+
 module.exports = Default

@@ -6,5 +6,5 @@ const apiController = {
       res.json(res.locals.data.lego)
     }
   }
-  // things
+
   module.exports = apiController

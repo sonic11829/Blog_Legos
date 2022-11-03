@@ -59,5 +59,5 @@ router.get('/logout', (req, res) => {
     }    
    })
 })
-// things
+
 module.exports = router

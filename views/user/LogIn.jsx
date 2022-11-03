@@ -19,5 +19,5 @@ class Login extends React.Component {
     )
   }
 }
-// things
+
 module.exports = Login

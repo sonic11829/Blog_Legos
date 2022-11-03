@@ -19,5 +19,5 @@ class SignUp extends React.Component {
     )
   }
 }
-// things
+
 module.exports = SignUp

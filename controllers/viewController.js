@@ -20,5 +20,5 @@ const viewController = {
         res.redirect(`${RESOURCE_PATH}/${legoId}`)
     }
 }
-// things
+
 module.exports = viewController

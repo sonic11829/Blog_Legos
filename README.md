@@ -1,3 +1,5 @@
+This is a lego blog where you sign in and create your own posts about whatever lego sets you think you need to blog about. Have fun!
+
 | URL | HTTP Verb | Action | Used for ... |
 |-----|-----------|--------|--------------|
 | /fruits/ | Get | Index | Displays a list of all fruits |
@@ -9,5 +11,3 @@
 | /fruits/:id | Delete | Destroy | Deletes a specific fruit |
 
 https://trello.com/b/Iu9pdhPp/legos
-
-This is a lego blog where you sign in and create your own posts about whatever lego sets you think you need to blog about. Have fun!
