@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/sonic11829/Blog_Legos/issues"
   },
-  "homepage": "https://github.com/sonic11829/Blog_Legos#readme"
+  "homepage": "https://github.com/sonic11829/Blog_Legos#readme",
+  "devDependencies": {}
 }

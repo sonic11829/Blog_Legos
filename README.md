@@ -8,3 +8,6 @@
 | /fruits/:id | Patch/Put | Update | Updates a specific fruit |
 | /fruits/:id | Delete | Destroy | Deletes a specific fruit |
 
+https://trello.com/b/Iu9pdhPp/legos
+
+This is a lego blog where you sign in and create your own posts about whatever lego sets you think you need to blog about. Have fun!
