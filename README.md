@@ -1,4 +1,17 @@
-This is a lego blog where you sign in and create your own posts about whatever lego sets you think you need to blog about. Have fun!
+<h1>Lego Blog</h1>
+<h3>This is a lego blog where you sign in and create your own posts about whatever lego sets you want to blog about. Have fun!</h3>
+<br>
+images will go here when I can take them
+<br>
+<h3>Technologies used</h3>
+<h5>Html, CSS, JavaScript, MongoDB, Mongoose, Node.JS, Express, & CRUD</h5>
+<br>
+<h3>Here is a link to my application</h3>
+http://localhost:3000/signup
+<br>
+<h3>I still plan on adding comments and possibly adding the ability to view other user's blogs</h3>
+
+
 
 | URL | HTTP Verb | Action | Used for ... |
 |-----|-----------|--------|--------------|
