@@ -15,6 +15,7 @@ class SignUp extends React.Component {
             <input type='submit' value='Create Account' />
           </fieldset>
         </form>
+        <a href={'/user/login'}>Log in if you have an account!</a>
       </Default>
     )
   }

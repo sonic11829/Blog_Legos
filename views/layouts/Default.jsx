@@ -15,6 +15,7 @@ class Default extends React.Component {
                         <a className='route' href='/legos/new'>New Blog</a>
                         {lego ? <a className='route' href={`/legos/${lego._id}/edit`}> Edit </a> : ''}
                         {lego ? <a className='route' href={`/legos/${lego._id}`}> Show Set </a> : ''}
+                        <a className='route' href={'/user/logout'}> Log Out </a>
                     </nav>
                     <h1>
                         {title}

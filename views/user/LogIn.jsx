@@ -2,7 +2,7 @@ const React = require('react')
 const Default = require('../layouts/Default')
 
 
-class Login extends React.Component {
+class LogIn extends React.Component {
   render () {
     return (
       <Default title="Login to Lego Account">
@@ -15,9 +15,10 @@ class Login extends React.Component {
             <input type='submit' value='Login Account' />
           </fieldset>
         </form>
+        <a href={'/user/signup'}>Sign Up Now!</a>
       </Default>
     )
   }
 }
 
-module.exports = Login
+module.exports = LogIn

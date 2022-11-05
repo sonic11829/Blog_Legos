@@ -23,7 +23,7 @@ router.post('/signup', async (req, res) => {
   })
 
 router.get('/login', (req, res) => {
-  res.render('user/Login.jsx')
+  res.render('user/LogIn.jsx')
 })
 
 router.post('/login', async (req, res) => {
@@ -55,7 +55,7 @@ router.get('/logout', (req, res) => {
       console.error(err)
       res.status(500).json(err)
     } else {
-      res.redirect('/')
+      res.redirect('/user/login')
     }    
    })
 })
