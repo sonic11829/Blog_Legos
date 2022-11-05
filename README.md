@@ -2,10 +2,11 @@
 <h3>This is a lego blog where you sign in and create your own posts about whatever lego sets you want to blog about. Have fun!</h3>
 <br>
 <br>
-![](/images/legoone.png)
+
+![](./images/Screen%20Shot%202022-11-05%20at%2011.23.02%20AM.png)
 <br>
 <br>
-![](/images/legotwo.png)
+![](./images/Screen%20Shot%202022-11-05%20at%2011.23.13%20AM.png)
 <br>
 <br>
 <h3>Technologies used</h3>
@@ -28,4 +29,15 @@ http://localhost:3000/signup
 | /fruits/:id | Patch/Put | Update | Updates a specific fruit |
 | /fruits/:id | Delete | Destroy | Deletes a specific fruit |
 
+Trello<br>
+![](./images/Screen%20Shot%202022-11-05%20at%2011.19.11%20AM.png)
+<br>
 https://trello.com/b/Iu9pdhPp/legos
+<br>
+<br>
+Wireframe<br>
+![](./images/Screen%20Shot%202022-11-02%20at%2010.26.04%20PM.png)
+<br>
+<br>
+ERD<br>
+![](./images/Screen%20Shot%202022-11-02%20at%206.49.00%20PM.png)
