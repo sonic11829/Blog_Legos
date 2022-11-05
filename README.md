@@ -1,8 +1,12 @@
 <h1>Lego Blog</h1>
 <h3>This is a lego blog where you sign in and create your own posts about whatever lego sets you want to blog about. Have fun!</h3>
 <br>
-![Screen Shot 2022-11-02 at 11 17 26 PM](https://user-images.githubusercontent.com/104688932/199641527-2539902b-aeba-49ef-b8be-c2f64879dd15.png)<br>
-![Screen Shot 2022-11-02 at 11 17 41 PM](https://user-images.githubusercontent.com/104688932/199641558-feca4a37-a3e9-4424-acf6-d2db8dd3526b.png)
+<br>
+![](/images/legoone.png)
+<br>
+<br>
+![](/images/legotwo.png)
+<br>
 <br>
 <h3>Technologies used</h3>
 <h5>Html, CSS, JavaScript, MongoDB, Mongoose, Node.JS, Express, & CRUD</h5>
